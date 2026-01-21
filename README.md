@@ -1,3 +1,2 @@
 # Projects
-Lets have all teh codes we do here.
-In one place
+Lets have all C codes we do here, in one place.
